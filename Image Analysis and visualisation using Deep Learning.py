@@ -21,7 +21,7 @@ except:
     XRV_AVAILABLE = False
 
 # -------------------------------
-# Helper Functions
+# Helper Functions for processing
 # -------------------------------
 
 def pick_image_file(title="Select an image file"):
